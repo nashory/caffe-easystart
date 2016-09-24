@@ -1,13 +1,20 @@
-# caffe-easystart
+#caffe-easystart
 Caffe training template for easy implementation
 
-# Environment
-Ubuntu 16.04 \r\n
+Environment
+-----------
+Ubuntu 16.04
+
 gcc-5.4
+
 caffe-master branch
+
 google progobuf 2.7.0
+
 OpenCV 3.1.0 master branch
+
 CUDA 8.0 RC
+
 (ubuntu 14.04, OpenCV2, and CUDA7.5 will also works)
 
 #Set-up
