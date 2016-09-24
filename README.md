@@ -14,6 +14,9 @@ CUDA 8.0 RC <br />
 
 Set-up
 ------
+copy and pase this source ('workspace' folder) to '~/caffe' folder. <br />
+ex) ~/caffe/workspace/train_demo/1_Get_db_list .... <br /> <br />
+
 change the CAFFE_ROOT paths in <br />
 2\_Create_lmdb/CreateLMDB.sh <br />
 3\_Compute\_image\_mean/compute\_image_mean.sh <br />
