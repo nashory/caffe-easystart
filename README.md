@@ -22,3 +22,25 @@ change the paths in
 
 # How to use?
 
+Protocol Buffers - Google's data interchange format
+===================================================
+
+[![Build Status](https://travis-ci.org/google/protobuf.svg?branch=master)](https://travis-ci.org/google/protobuf) [![Build status](https://ci.appveyor.com/api/projects/status/73ctee6ua4w2ruin?svg=true)](https://ci.appveyor.com/project/protobuf/protobuf) [![Build Status](https://grpc-testing.appspot.com/buildStatus/icon?job=protobuf_branch)](https://grpc-testing.appspot.com/job/protobuf_branch)
+
+Copyright 2008 Google Inc.
+
+https://developers.google.com/protocol-buffers/
+
+Overview
+--------
+
+Protocol Buffers (a.k.a., protobuf) are Google's language-neutral,
+platform-neutral, extensible mechanism for serializing structured data. You
+can find [protobuf's documentation on the Google Developers site](https://developers.google.com/protocol-buffers/).
+
+This README file contains protobuf installation instructions. To install
+protobuf, you need to install the protocol compiler (used to compile .proto
+files) and the protobuf runtime for your chosen programming language.
+
+Protocol Compiler Installation
+------------------------------
