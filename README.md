@@ -2,8 +2,8 @@
 Caffe training template for easy implementation
 
 # Environment
-Ubuntu 16.04
-gcc-5.4
+Ubuntu 16.04 \n
+gcc-5.4 \n
 caffe-master branch
 google progobuf 2.7.0
 OpenCV 3.1.0 master branch
